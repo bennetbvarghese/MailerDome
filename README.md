@@ -72,6 +72,22 @@ To get started with MailerDome, follow these steps:
 5. **Run the Application:**
     Start sending email campaigns by invoking the API endpoints.
 
+## Images
+
+1. Email
+   
+   ![Alt Text](Images/Email1.png)
+
+   ![Alt Text](Images/Email2.png)
+   
+3. S3 Bucket
+   
+   ![Alt Text](Images/S3.png)
+   
+5. Lambda Function
+   
+   ![Alt Text](Images/Lambda.png)
+   
 ## 🤝 Contributing
 
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details on how to get involved.
