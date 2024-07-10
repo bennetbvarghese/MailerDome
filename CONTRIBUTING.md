@@ -8,7 +8,7 @@ We welcome contributions of all kinds, including bug fixes, new features, docume
 
 ### Reporting Issues
 
-If you encounter any bugs, glitches, or have suggestions for improvements, please [open an issue](https://github.com/yourusername/MailerDome/issues) on GitHub. Include as much detail as possible to help us understand and resolve the issue quickly.
+If you encounter any bugs, glitches, or have suggestions for improvements, please [open an issue](https://github.com/bennetbvarghese/MailerDome/issues) on GitHub. Include as much detail as possible to help us understand and resolve the issue quickly.
 
 ### Submitting Changes
 
@@ -18,7 +18,7 @@ If you encounter any bugs, glitches, or have suggestions for improvements, pleas
 2. **Clone Your Fork:**
     - Clone your forked repository to your local machine.
     ```bash
-    git clone https://github.com/yourusername/MailerDome.git
+    git clone https://github.com/bennetbvarghese/MailerDome.git
     cd MailerDome
     ```
 
